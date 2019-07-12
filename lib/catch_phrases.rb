@@ -9,3 +9,4 @@ def toadstool
 end
 
 def link
+  puts "Its Dan"
